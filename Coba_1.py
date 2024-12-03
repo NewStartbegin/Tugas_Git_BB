@@ -93,3 +93,5 @@ for tempat,data in Data_panen.items():
         print(f"Lokasi {nama_tempat} Membutuhkan Perhatian Khusus")
     else:
         print(f"Lokasi {nama_tempat} Dalam Kondisi Normal Dan Aman ")
+
+print("Tugas Git No 10")
