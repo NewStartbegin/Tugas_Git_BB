@@ -92,6 +92,6 @@ for tempat,data in Data_panen.items():
     if hasil_padi > 1300 or hasil_jagung > 800:
         print(f"Lokasi {nama_tempat} Membutuhkan Perhatian Khusus")
     else:
-        print(f"Lokasi {nama_tempat} Dalam Kondisi Normal Dan Aman ")
+        print(f"Lokasi {nama_tempat} Dalam Kondisi aman")
 
 print("Tugas Git No 11--")
