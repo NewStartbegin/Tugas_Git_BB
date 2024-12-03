@@ -94,4 +94,4 @@ for tempat,data in Data_panen.items():
     else:
         print(f"Lokasi {nama_tempat} Dalam Kondisi Normal Dan Aman ")
 
-print("Tugas Git No 10")
+print("Tugas Git No 11--")
