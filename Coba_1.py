@@ -95,3 +95,4 @@ for tempat,data in Data_panen.items():
         print(f"Lokasi {nama_tempat} Dalam Kondisi aman")
 
 print("Tugas Git No 11--")
+print("Effendi Arsyad")
