@@ -94,5 +94,10 @@ for tempat,data in Data_panen.items():
     else:
         print(f"Lokasi {nama_tempat} Dalam Kondisi aman aja kok dong")
 
+<<<<<<< HEAD
 print("Tugas Git Baru")
 print("Arsyad Effendi")
+=======
+print("Tugas Git No 11--")
+print("Effendi Arsyad")
+>>>>>>> baru
